@@ -12,4 +12,4 @@ os codigos dos jogos Cobra na Caixa e Gousma War feito por IA, mas os novos coma
 - For (laço de repitição)
 - Pointers (por hora ainda presentes)
 - Switch Case
-- Void 
+- Void
